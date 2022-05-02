@@ -30,3 +30,6 @@ export default function App() {
     </ReduxProvider>
   );
 }
+
+
+//eas build -p android --profile preview
